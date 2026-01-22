@@ -1,0 +1,9 @@
+.clang-tidy
+*.o
+.vscode/
+*fs
+demo*
+core
+d1
+d2
+d3

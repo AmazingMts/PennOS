@@ -1,0 +1,24 @@
+[    0] CREATE     1     0    init
+[    0] SCHEDULE   1     0    init
+[    0] CREATE     2     1    shell
+[    0] NICE       2   1   0  shell
+[    0] BLOCKED    1     0    init
+[    1] SCHEDULE   2     0    shell
+[    2] SCHEDULE   2     0    shell
+[    3] SCHEDULE   2     0    shell
+[    4] SCHEDULE   2     0    shell
+[    5] SCHEDULE   2     0    shell
+[    6] SCHEDULE   2     0    shell
+[    7] SCHEDULE   2     0    shell
+[    8] SCHEDULE   2     0    shell
+[    9] SCHEDULE   2     0    shell
+[   10] SCHEDULE   2     0    shell
+[   11] SCHEDULE   2     0    shell
+[   12] SCHEDULE   2     0    shell
+[   13] SCHEDULE   2     0    shell
+[   14] SCHEDULE   2     0    shell
+[   15] SCHEDULE   2     0    shell
+[   16] SCHEDULE   2     0    shell
+[   16] EXITED     2     0    shell
+[   16] ZOMBIE     2     0    shell
+[   16] UNBLOCKED  1     0    init
