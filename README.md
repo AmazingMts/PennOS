@@ -1,18 +1,3 @@
-# PennOS Group 5
-
-## Personal Information
-- Name: Ajax Li
-- Penn Key: ajaxxx
-
-- Name: Sau Lok Li
-- Penn Key: li86
-
-- Name:Tianshi Miao
-- Penn Key: miaots
-
-- Name: Feiyang Jin
-- Penn Key: jin0
-
 ## List of Submitted Source Files
 ### src/
 - `fat_kernel.c` / `fat_kernel.h`
